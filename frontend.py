@@ -15,8 +15,6 @@ if "messages" not in st.session_state:
 if "transcript" not in st.session_state:
     st.session_state.transcript = None
  
-
- 
 # Function to simulate fetching transcript (dummy text in this example)
 def fetch_transcript(url):
     # response = requests.post(f"{api_host}/transcribe", json={"youtube_url": youtube_url})
@@ -25,7 +23,6 @@ def fetch_transcript(url):
    # return "Dummy transcript based on the video at " + url
  
 # Only proceed with the chatbot interface if a YouTube URL has been entered
- 
 if youtube_url and st.session_state.transcript is None:
     st.session_state.transcript = fetch_transcript(youtube_url)
     st.session_state.messages = []
