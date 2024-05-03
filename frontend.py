@@ -5,7 +5,6 @@ import requests
 # Set the title of the Streamlit page
 st.title("YouChat")
 api_host = "http://localhost:8000"
-st.session_state
  
 # Step 1: User inputs a YouTube link
 youtube_url = st.text_input("Enter YouTube video URL")
