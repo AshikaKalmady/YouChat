@@ -1,0 +1,6 @@
+vertexai
+pytube==11.0.1
+google-cloud-storage==1.42.3
+google-generativeai
+streamlit
+requests==2.26.0
