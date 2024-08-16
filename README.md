@@ -53,7 +53,10 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Your Name – [Your Email](mailto:youremail@example.com)
+Ashika Kalmady - ashika.skalmady@gmail.com
+Sanjay Bhaskar kashyap - kashyap.sanj@northeastern.edu
+Snehil aryan - aryan.s@northeastern.edu
+
 
 Project Link: [https://github.com/yourusername/YouChat](https://github.com/yourusername/YouChat)
 
